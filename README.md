@@ -1,5 +1,7 @@
 # Vuforia-Samples-Android-Studio
-This is a Android Vuforia Samples App ported for Android Studio.<br />
+This is a Android Vuforia Samples App ported from Eclipse to Android Studio.<br />
+It is supposed that you already have Android SDK installed.
+<br />
 <br />
 <b>Instructions:</b><br />
 1.Clone this repo<br />
