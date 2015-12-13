@@ -13,3 +13,5 @@ This is a Android Vuforia Samples App ported for Android Studio.<br />
 7. Click Run -> Run <br />
 8. Choose your device from the list (Note: Run on the real device and not on the emulator because you need a camera)<br />
 
+
+Hope it can Helps!
