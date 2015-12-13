@@ -1,0 +1,66 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .externalToolBuilders/
+* .externalToolBuilders/CopyVuforiaFiles.launch
+* CopyVuforiaFiles.xml
+* license.txt
+* media/
+* media/FlakesBox.pdf
+* media/FlakesBox_Back.png
+* media/FlakesBox_Bottom.png
+* media/FlakesBox_Front.png
+* media/FlakesBox_Left.png
+* media/FlakesBox_Right.png
+* media/FlakesBox_Top.png
+* media/chips.jpg
+* media/stones.jpg
+* media/target_chips_A4.pdf
+* media/target_chips_USLetter.pdf
+* media/target_cylinder.jpg
+* media/target_cylinder_A4.pdf
+* media/target_cylinder_USLetter.pdf
+* media/target_marker_A4.pdf
+* media/target_marker_USLetter.pdf
+* media/target_stones_A4.pdf
+* media/target_stones_USLetter.pdf
+* media/target_tarmac_A4.pdf
+* media/target_tarmac_USLetter.pdf
+* media/target_wood_A4.pdf
+* media/target_wood_USLetter.pdf
+* media/tarmac.jpg
+* media/wood.jpg
+* readme.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* /Users/Gotti/<DEVELOPMENT_ROOT>/Android/vuforia-sdk-android-5-0-5/build/java/vuforia/ => app/src/main/java/
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

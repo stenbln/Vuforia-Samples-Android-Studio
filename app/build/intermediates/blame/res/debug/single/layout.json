@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/camera_overlay_textreco.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/camera_overlay_textreco.xml"
+    },
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/camera_overlay.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/camera_overlay.xml"
+    },
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/activities_list.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/activities_list.xml"
+    },
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/camera_overlay_udt.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/camera_overlay_udt.xml"
+    },
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_radio_button.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/activities_list_text_view.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/activities_list_text_view.xml"
+    },
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/sample_app_menu_group.xml"
+    },
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_divider.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/about_screen.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/about_screen.xml"
+    },
+    {
+        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/layout/sample_app_menu_layer.xml",
+        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/layout/sample_app_menu_layer.xml"
+    }
+]
