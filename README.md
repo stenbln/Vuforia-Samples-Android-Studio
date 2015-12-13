@@ -1,7 +1,7 @@
 # Vuforia-Samples-Android-Studio
 This is a Android Vuforia Samples App ported for Android Studio.<br />
 <br />
-Instructions:<br />
+<b>Instructions:</b><br />
 1.Clone this repo<br />
 2.Obtain your Vuforia license key at https://developer.vuforia.com/targetmanager/licenseManager/licenseListing<br />
 3.Paste the key in "SampleApplicationSession.java" file which is located in your project under<br /> <i>app/src/main/java/com.qualcomm.vuforia.samples/SampleApplication/SampleApplicationSession</i> in line 347<br />
