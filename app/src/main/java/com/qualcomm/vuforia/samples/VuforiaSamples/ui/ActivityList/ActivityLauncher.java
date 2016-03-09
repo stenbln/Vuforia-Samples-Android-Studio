@@ -26,7 +26,7 @@ public class ActivityLauncher extends ListActivity
     
     private String mActivities[] = { "Image Targets", "Cylinder Targets",
             "Multi Targets", "User Defined Targets", "Object Reco", "Cloud Reco", "Text Reco",
-            "Frame Markers", "Virtual Buttons"};
+            "Frame Markers", "Virtual Buttons", "Josip Test"};
     
     
     @Override
@@ -98,6 +98,11 @@ public class ActivityLauncher extends ListActivity
             case 8:
                 intent.putExtra("ACTIVITY_TO_LAUNCH",
                     "app.VirtualButtons.VirtualButtons");
+                intent.putExtra("ABOUT_TEXT", "VirtualButtons/VB_about.html");
+                break;
+            case 9:
+                intent.putExtra("ACTIVITY_TO_LAUNCH",
+                        "app.jme.jme");
                 intent.putExtra("ABOUT_TEXT", "VirtualButtons/VB_about.html");
                 break;
         }

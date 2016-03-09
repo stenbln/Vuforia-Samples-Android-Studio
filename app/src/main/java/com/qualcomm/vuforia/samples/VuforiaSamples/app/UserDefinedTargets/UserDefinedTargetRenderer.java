@@ -171,8 +171,8 @@ public class UserDefinedTargetRenderer implements GLSurfaceView.Renderer
                 modelViewProjection, 0);
             GLES20.glUniform1i(texSampler2DHandle, 0);
             GLES20.glDrawElements(GLES20.GL_TRIANGLES,
-                mTeapot.getNumObjectIndex(), GLES20.GL_UNSIGNED_SHORT,
-                mTeapot.getIndices());
+                    mTeapot.getNumObjectIndex(), GLES20.GL_UNSIGNED_SHORT,
+                    mTeapot.getIndices());
             
             GLES20.glDisableVertexAttribArray(vertexHandle);
             GLES20.glDisableVertexAttribArray(normalHandle);

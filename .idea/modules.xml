@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VuforiaSamples-5-0-54.iml" filepath="$PROJECT_DIR$/VuforiaSamples-5-0-54.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vuforia-Samples-Android-Studio.iml" filepath="$PROJECT_DIR$/Vuforia-Samples-Android-Studio.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

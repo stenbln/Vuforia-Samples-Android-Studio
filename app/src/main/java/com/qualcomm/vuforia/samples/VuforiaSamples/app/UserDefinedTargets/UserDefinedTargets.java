@@ -366,9 +366,10 @@ public class UserDefinedTargets extends Activity implements
         initializeBuildTargetModeViews();
         
         mUILayout.bringToFront();
+
     }
-    
-    
+
+
     // Button Camera clicked
     public void onCameraClick(View v)
     {

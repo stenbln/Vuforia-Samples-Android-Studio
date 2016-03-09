@@ -154,6 +154,12 @@
             android:launchMode="singleTask"
             android:theme="@style/SampleAppsTheme" >
         </activity>
+        <activity
+            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.jme.jme"
+            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
+            android:launchMode="singleTask"
+            android:theme="@style/SampleAppsTheme" >
+        </activity>
     </application>
 
 </manifest>

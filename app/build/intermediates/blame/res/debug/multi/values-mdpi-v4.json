@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/values-mdpi-v4/values-mdpi-v4.xml",
+        "outputFile": "/Users/Gotti/AndroidStudioProjects/VufTesting/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/values-mdpi-v4/values-mdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/values-mdpi/dimens.xml",
+                    "file": "/Users/Gotti/AndroidStudioProjects/VufTesting/Vuforia-Samples-Android-Studio/app/src/main/res/values-mdpi/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 149
                 },
                 "from": {
-                    "file": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/values-mdpi/dimens.xml",
+                    "file": "/Users/Gotti/AndroidStudioProjects/VufTesting/Vuforia-Samples-Android-Studio/app/src/main/res/values-mdpi/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

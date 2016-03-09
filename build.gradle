@@ -11,5 +11,18 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
+        maven {
+            url 'http://updates.jmonkeyengine.org/maven'
+        }
     }
+
+    project(":app") {
+        apply plugin: "android"
+        dependencies {
+
+            compile 'com.jme3:jme3-android:3.0.+',
+                    'com.jme3:jme3-terrain:3.0.+'
+        }
 }
+}
+

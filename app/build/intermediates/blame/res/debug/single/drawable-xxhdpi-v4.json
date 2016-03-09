@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/logo.png",
-        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/drawable-xxhdpi/logo.png"
+        "merged": "/Users/Gotti/AndroidStudioProjects/VufTesting/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon.png",
+        "source": "/Users/Gotti/AndroidStudioProjects/VufTesting/Vuforia-Samples-Android-Studio/app/src/main/res/drawable-xxhdpi/icon.png"
     },
     {
-        "merged": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon.png",
-        "source": "/Users/Gotti/AndroidStudioProjects/VuforiaSamples-5-0-54/app/src/main/res/drawable-xxhdpi/icon.png"
+        "merged": "/Users/Gotti/AndroidStudioProjects/VufTesting/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/logo.png",
+        "source": "/Users/Gotti/AndroidStudioProjects/VufTesting/Vuforia-Samples-Android-Studio/app/src/main/res/drawable-xxhdpi/logo.png"
     }
 ]
